@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Boryaev_Dmitry_Igorevich_api_exam.props" />
+</Project>

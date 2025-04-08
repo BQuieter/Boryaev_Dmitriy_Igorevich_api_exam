@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BQuiet\\source\\repos\\Boryaev_Dmitry_Igorevich_api_exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C84B7F-F9DB-44BF-8A8F-CB03468F4495}|Boryaev_Dmitry_Igorevich_api_exam\\Boryaev_Dmitry_Igorevich_api_exam.csproj|c:\\users\\bquiet\\source\\repos\\boryaev_dmitry_igorevich_api_exam\\boryaev_dmitry_igorevich_api_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C84B7F-F9DB-44BF-8A8F-CB03468F4495}|Boryaev_Dmitry_Igorevich_api_exam\\Boryaev_Dmitry_Igorevich_api_exam.csproj|solutionrelative:boryaev_dmitry_igorevich_api_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C84B7F-F9DB-44BF-8A8F-CB03468F4495}|Boryaev_Dmitry_Igorevich_api_exam\\Boryaev_Dmitry_Igorevich_api_exam.csproj|c:\\users\\bquiet\\source\\repos\\boryaev_dmitry_igorevich_api_exam\\boryaev_dmitry_igorevich_api_exam\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C84B7F-F9DB-44BF-8A8F-CB03468F4495}|Boryaev_Dmitry_Igorevich_api_exam\\Boryaev_Dmitry_Igorevich_api_exam.csproj|solutionrelative:boryaev_dmitry_igorevich_api_exam\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C84B7F-F9DB-44BF-8A8F-CB03468F4495}|Boryaev_Dmitry_Igorevich_api_exam\\Boryaev_Dmitry_Igorevich_api_exam.csproj|c:\\users\\bquiet\\source\\repos\\boryaev_dmitry_igorevich_api_exam\\boryaev_dmitry_igorevich_api_exam\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C84B7F-F9DB-44BF-8A8F-CB03468F4495}|Boryaev_Dmitry_Igorevich_api_exam\\Boryaev_Dmitry_Igorevich_api_exam.csproj|solutionrelative:boryaev_dmitry_igorevich_api_exam\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 295,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 63,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\BQuiet\\source\\repos\\Boryaev_Dmitry_Igorevich_api_exam\\Boryaev_Dmitry_Igorevich_api_exam\\Task.cs",
+              "RelativeDocumentMoniker": "Boryaev_Dmitry_Igorevich_api_exam\\Task.cs",
+              "ToolTip": "C:\\Users\\BQuiet\\source\\repos\\Boryaev_Dmitry_Igorevich_api_exam\\Boryaev_Dmitry_Igorevich_api_exam\\Task.cs",
+              "RelativeToolTip": "Boryaev_Dmitry_Igorevich_api_exam\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:34:35.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\BQuiet\\source\\repos\\Boryaev_Dmitry_Igorevich_api_exam\\Boryaev_Dmitry_Igorevich_api_exam\\Status.cs",
+              "RelativeDocumentMoniker": "Boryaev_Dmitry_Igorevich_api_exam\\Status.cs",
+              "ToolTip": "C:\\Users\\BQuiet\\source\\repos\\Boryaev_Dmitry_Igorevich_api_exam\\Boryaev_Dmitry_Igorevich_api_exam\\Status.cs",
+              "RelativeToolTip": "Boryaev_Dmitry_Igorevich_api_exam\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:35:13.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BQuiet\\source\\repos\\Boryaev_Dmitry_Igorevich_api_exam\\Boryaev_Dmitry_Igorevich_api_exam\\Program.cs",
+              "RelativeDocumentMoniker": "Boryaev_Dmitry_Igorevich_api_exam\\Program.cs",
+              "ToolTip": "C:\\Users\\BQuiet\\source\\repos\\Boryaev_Dmitry_Igorevich_api_exam\\Boryaev_Dmitry_Igorevich_api_exam\\Program.cs",
+              "RelativeToolTip": "Boryaev_Dmitry_Igorevich_api_exam\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:33:52.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
